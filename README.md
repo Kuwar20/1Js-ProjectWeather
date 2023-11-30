@@ -1,3 +1,4 @@
 # Working Deployed Project Link     
-# Tech used : simple HTML,CSS,JS     
+# Technology used : Vanilla Js , Html , Css
+ 
 ## [Weather](https://1jsprojectweather.pages.dev/)
